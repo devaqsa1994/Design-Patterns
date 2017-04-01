@@ -1,0 +1,6 @@
+c:\users\home\documents\visual studio 2012\Projects\OOP\Sat\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+c:\users\home\documents\visual studio 2012\Projects\OOP\Sat\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+c:\users\home\documents\visual studio 2012\Projects\OOP\Sat\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+c:\users\home\documents\visual studio 2012\Projects\OOP\Sat\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2012\Projects\OOP\Sat\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+c:\users\home\documents\visual studio 2012\Projects\OOP\Sat\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
